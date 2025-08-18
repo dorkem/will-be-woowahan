@@ -11,4 +11,5 @@
 
 ### PRECOURSE-6
 - **WEEK01** `2025.08.13 ~ 2025.08.14` -  [⚾️ 숫자 야구](https://github.com/dorkem/java-baseball-6?tab=readme-ov-file)
+- **WEEK02** `2025.08.13 ~ 2025.08.14` -  [🏎️ 레이싱카](https://github.com/dorkem/java-racingcar-6)
 
