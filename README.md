@@ -13,3 +13,5 @@
 - **WEEK01** `2025.08.13 ~ 2025.08.14` -  [⚾️ 숫자 야구](https://github.com/dorkem/java-baseball-6?tab=readme-ov-file)
 - **WEEK02** `2025.08.13 ~ 2025.08.14` -  [🏎️ 레이싱카](https://github.com/dorkem/java-racingcar-6)
 
+### PRECOURSE-8
+- **WEEK08** `2025.10.19 ~ 2025.10.19` - [➕️문자열 덧셈 계산기](https://github.com/dorkem/java-calculator-8)
