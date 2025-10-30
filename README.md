@@ -14,4 +14,6 @@
 - **WEEK02** `2025.08.13 ~ 2025.08.14` -  [🏎️ 레이싱카](https://github.com/dorkem/java-racingcar-6)
 
 ### PRECOURSE-8
-- **WEEK08** `2025.10.19 ~ 2025.10.19` - [➕️문자열 덧셈 계산기](https://github.com/dorkem/java-calculator-8)
+- **WEEK01** `2025.10.19 ~ 2025.10.19` - [➕️문자열 덧셈 계산기](https://github.com/dorkem/java-calculator-8)
+- **WEEK02** `2025.10.27 ~ 2025.10.27` - [🏎️레이싱카](https://github.com/dorkem/java-racingcar-8)
+- **WEEK03** `2025.10.?? ~ 2025.10.??` - [💸로또](https://github.com/dorkem/java-lotto-8)
